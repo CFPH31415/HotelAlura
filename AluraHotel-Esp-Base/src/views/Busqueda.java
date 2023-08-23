@@ -433,7 +433,7 @@ public class Busqueda extends JFrame {
 		    		if(tbHuespedes.getSelectedColumn()== 6) {
 		     JOptionPane.showMessageDialog(this, "No se pueden modificar los id");  
             } else {
-            	 this.huespedControl.actualizarH(nombre, apellido, fechaNacimiento, nacionalidad, telefono, id_reserva, id_reserva);
+            	 this.huespedControl.actualizarH(nombre, apellido, fechaNacimiento, nacionalidad, telefono, id_reserva, id);
       		   JOptionPane.showMessageDialog(this, String.format( "Registro modificado con exito"));  
             }
 		    
