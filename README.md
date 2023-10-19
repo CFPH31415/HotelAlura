@@ -148,7 +148,7 @@ Para importar el <strong>Jcalendar</strong> desde tu computadora, después de ha
 Por lo tanto, el proyecto debe contener los siguientes archivos después de las importaciones:
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/173695620-7a4893e9-b9a1-44d6-8b70-c94a85ea891e.png">
+     <img width="600" heigth="600" src="[https://user-images.githubusercontent.com/101413385/173695620-7a4893e9-b9a1-44d6-8b70-c94a85ea891e.png](https://github.com/CFPH31415/HotelAlura/blob/main/AluraHotel-Esp-Base/src/imagenes/hotel.png)">
 </p>
 
 
