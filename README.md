@@ -155,7 +155,7 @@ Por lo tanto, el proyecto debe contener los siguientes archivos después de las 
 ## 🚧 Proyecto
 
 <p align="center" >
-     <img width="700" heigth="700" src="ttps://github.com/CFPH31415/HotelAlura/blob/main/imagenes/hotel.png?raw=true">
+     <img width="700" heigth="700" src="[ttps://github.com/CFPH31415/HotelAlura/blob/main/imagenes/hotel.png?raw=true](https://raw.githubusercontent.com/CFPH31415/HotelAlura/main/AluraHotel-Esp-Base/src/imagenes/hotel.png)">
 </p>
 
 
