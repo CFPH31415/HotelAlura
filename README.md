@@ -159,7 +159,7 @@ Por lo tanto, el proyecto debe contener los siguientes archivos después de las 
 </p>
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/189419556-20b67f67-003c-47ac-a0ae-02cf814a6ccb.png">
+     <img width="600" heigth="600" src="[https://user-images.githubusercontent.com/91544872/189419556-20b67f67-003c-47ac-a0ae-02cf814a6ccb.png](https://github.com/CFPH31415/HotelAlura/blob/main/AluraHotel-Esp-Base/src/imagenes/hotel.png)">
 </p>
 
 
